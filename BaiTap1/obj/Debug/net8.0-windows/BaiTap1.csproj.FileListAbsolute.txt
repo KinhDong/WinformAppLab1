@@ -1,0 +1,16 @@
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\bin\Debug\net8.0-windows\BaiTap1.exe
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\bin\Debug\net8.0-windows\BaiTap1.deps.json
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\bin\Debug\net8.0-windows\BaiTap1.runtimeconfig.json
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\bin\Debug\net8.0-windows\BaiTap1.dll
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\bin\Debug\net8.0-windows\BaiTap1.pdb
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.Form1.resources
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.csproj.GenerateResource.cache
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.AssemblyInfoInputs.cache
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.AssemblyInfo.cs
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.csproj.CoreCompileInputs.cache
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.dll
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\refint\BaiTap1.dll
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.pdb
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\BaiTap1.genruntimeconfig.cache
+D:\Project\LapTrinhMAng\BaiTap1\BaiTap1\obj\Debug\net8.0-windows\ref\BaiTap1.dll
