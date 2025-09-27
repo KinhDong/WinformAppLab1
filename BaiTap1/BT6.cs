@@ -19,14 +19,6 @@ namespace Lab1
             InitializeComponent();
         }
 
-        bool isNumber(char c)
-        {
-            if (c - '0' <= '9' && c - '0' >= 0)
-            {
-                return true;
-            }
-            return false;
-        }
         private void btn_caculate_Click(object sender, EventArgs e)
         {        
             string input = tb_input.Text;
