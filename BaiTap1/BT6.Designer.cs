@@ -235,9 +235,9 @@
             label9.AutoSize = true;
             label9.Location = new Point(12, 29);
             label9.Name = "label9";
-            label9.Size = new Size(628, 25);
+            label9.Size = new Size(433, 25);
             label9.TabIndex = 20;
-            label9.Text = "Chỉ nhập các số thực không âm, cách nhau bởi dấu ',', không có các kí tự khác";
+            label9.Text = "Chỉ nhập các số thực không âm, cách nhau bởi dấu ','";
             // 
             // BT6
             // 

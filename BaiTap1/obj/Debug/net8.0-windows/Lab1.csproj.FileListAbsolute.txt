@@ -20,3 +20,4 @@ D:\Project\LapTrinhMAng\BT1-24520303-BuiCongDinh\BaiTap1\obj\Debug\net8.0-window
 D:\Project\LapTrinhMAng\BT1-24520303-BuiCongDinh\BaiTap1\obj\Debug\net8.0-windows\Lab1.BT4.resources
 D:\Project\LapTrinhMAng\BT1-24520303-BuiCongDinh\BaiTap1\obj\Debug\net8.0-windows\Lab1.BT5.resources
 D:\Project\LapTrinhMAng\BT1-24520303-BuiCongDinh\BaiTap1\obj\Debug\net8.0-windows\Lab1.BT6.resources
+D:\Project\LapTrinhMAng\BT1-24520303-BuiCongDinh\BaiTap1\obj\Debug\net8.0-windows\Lab1.sourcelink.json

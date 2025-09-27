@@ -28,47 +28,28 @@ namespace Lab1
             return false;
         }
         private void btn_caculate_Click(object sender, EventArgs e)
-        {
-            if (tb_input.Text == "")
-            {
-                MessageBox.Show("Vui lòng nhập đúng định dạng");
-                return;
-            }
-
+        {        
             string input = tb_input.Text;
-            if (!isNumber(input[0]))
-            {
-                MessageBox.Show("Vui lòng nhập đúng định dạng");
-                return;
-            }
 
-            input += ",0";
+            input += ',';
             string temp = "";
             List<float> score = new List<float>();
 
-            for (int i = 0; i < input.Length - 1; i++)
+            for (int i = 0; i < input.Length; i++)
             {
-                if (isNumber(input[i]))
+                if (input[i] == ',')
                 {
-                    temp += input[i];
-                }
-
-                else if (input[i] == '.' && isNumber(input[i + 1]))
-                {
-                    temp += input[i];
-                }
-
-                else if (input[i] == ',' && isNumber(input[i + 1]))
-                {
+                    float tempScore = 0;
+                    if (!float.TryParse(temp, out tempScore))
+                    {
+                        MessageBox.Show("Vui lòng nhập đúng định dạng");
+                        return;
+                    }
                     score.Add(float.Parse(temp, CultureInfo.InvariantCulture));
                     temp = "";
                 }
 
-                else
-                {
-                    MessageBox.Show("Vui lòng nhập đúng định dạng");
-                    return;
-                }
+                else temp += input[i];
             }
 
             string scoreOut = "";

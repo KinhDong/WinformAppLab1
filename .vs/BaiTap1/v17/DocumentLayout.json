@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|d:\\project\\laptrinhmang\\bt1-24520303-buicongdinh\\baitap1\\bt6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|solutionrelative:baitap1\\bt6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|d:\\project\\laptrinhmang\\bt1-24520303-buicongdinh\\baitap1\\bt6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|solutionrelative:baitap1\\bt6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|d:\\project\\laptrinhmang\\bt1-24520303-buicongdinh\\baitap1\\bt6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117AC940-8A4A-45D9-9EDD-95AB30FF8F5C}|BaiTap1\\Lab1.csproj|solutionrelative:baitap1\\bt6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BT6.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap1\\BT6.Designer.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.Designer.cs",
+              "RelativeToolTip": "BaiTap1\\BT6.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:03:43.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BT6.cs",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.cs",
+              "RelativeDocumentMoniker": "BaiTap1\\BT6.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.cs",
+              "RelativeToolTip": "BaiTap1\\BT6.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:15:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BT6.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.cs",
+              "RelativeDocumentMoniker": "BaiTap1\\BT6.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\BT1-24520303-BuiCongDinh\\BaiTap1\\BT6.cs [Design]",
+              "RelativeToolTip": "BaiTap1\\BT6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:04:03.132Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
