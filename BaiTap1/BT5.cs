@@ -18,11 +18,6 @@ namespace Lab1
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btn_caculate_Click(object sender, EventArgs e)
         {
             uint numA = 0, numB = 0;
