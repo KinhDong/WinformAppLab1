@@ -61,10 +61,5 @@ namespace Lab1
         {
             this.Close();
         }
-
-        private void tb_max_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
