@@ -70,7 +70,6 @@
             label2.Size = new Size(94, 25);
             label2.TabIndex = 3;
             label2.Text = "Nhập số B";
-            label2.Click += label2_Click;
             // 
             // btn_caculate
             // 
