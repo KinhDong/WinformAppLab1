@@ -146,7 +146,6 @@
             tb_max.ReadOnly = true;
             tb_max.Size = new Size(150, 31);
             tb_max.TabIndex = 11;
-            tb_max.TextChanged += tb_max_TextChanged;
             // 
             // tb_min
             // 
