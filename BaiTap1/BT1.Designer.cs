@@ -57,7 +57,6 @@
             tb_sum.ReadOnly = true;
             tb_sum.Size = new Size(150, 31);
             tb_sum.TabIndex = 2;
-            tb_sum.TextChanged += tb_sum_TextChanged;
             // 
             // label1
             // 
