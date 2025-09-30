@@ -7,11 +7,6 @@
             InitializeComponent();
         }
 
-        private void tb_sum_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int num1 = 0, num2 = 0;
@@ -26,9 +21,9 @@
             else
             {
                 num1 = Int32.Parse(tb_num1.Text.Trim());
-            num2 = Int32.Parse(tb_num2.Text.Trim());
-            int sum = num1 + num2;
-            tb_sum.Text = sum.ToString();
+                num2 = Int32.Parse(tb_num2.Text.Trim());
+                int sum = num1 + num2;
+                tb_sum.Text = sum.ToString();
             }
         }
     }
